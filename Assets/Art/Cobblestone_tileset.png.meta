@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: ee5c1a3b4b03e0440a723a960147cc8d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cobblestone_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 299
+        width: 450
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efc1e7c05cf0914daf20de3190162a4
+      internalID: -136932056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobblestone_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 451
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ce4b6b4192274abc82acc5cf0a1c9
+      internalID: 786731129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cobblestone_tileset_0: -225264279
+      Cobblestone_tileset_1: 1090296921
+      Cobblestone_tileset_10: -1588760462
+      Cobblestone_tileset_11: -578726238
+      Cobblestone_tileset_12: -1422240885
+      Cobblestone_tileset_13: 2003867293
+      Cobblestone_tileset_14: -136932056
+      Cobblestone_tileset_15: 1870022108
+      Cobblestone_tileset_16: -1938876138
+      Cobblestone_tileset_17: 1525693896
+      Cobblestone_tileset_18: 1213798567
+      Cobblestone_tileset_19: 1159365025
+      Cobblestone_tileset_2: 1844851321
+      Cobblestone_tileset_20: -1949086353
+      Cobblestone_tileset_21: 620807891
+      Cobblestone_tileset_22: 1826660299
+      Cobblestone_tileset_23: -2140728604
+      Cobblestone_tileset_24: -1767854960
+      Cobblestone_tileset_25: 88161004
+      Cobblestone_tileset_26: -1323113598
+      Cobblestone_tileset_27: 317858487
+      Cobblestone_tileset_28: 400082189
+      Cobblestone_tileset_29: -282927686
+      Cobblestone_tileset_3: -696726773
+      Cobblestone_tileset_30: -1195534175
+      Cobblestone_tileset_31: 864209280
+      Cobblestone_tileset_32: -1227690761
+      Cobblestone_tileset_33: 1518998418
+      Cobblestone_tileset_34: -1098965444
+      Cobblestone_tileset_35: 767392129
+      Cobblestone_tileset_36: -1390831607
+      Cobblestone_tileset_37: 67210750
+      Cobblestone_tileset_38: -2062407029
+      Cobblestone_tileset_39: -2125309492
+      Cobblestone_tileset_4: 1124732423
+      Cobblestone_tileset_40: -964749941
+      Cobblestone_tileset_41: -1544794485
+      Cobblestone_tileset_42: 1887797457
+      Cobblestone_tileset_43: 141254385
+      Cobblestone_tileset_44: -856828132
+      Cobblestone_tileset_45: -1832962275
+      Cobblestone_tileset_46: 1355702107
+      Cobblestone_tileset_47: 2087473616
+      Cobblestone_tileset_48: -586860785
+      Cobblestone_tileset_49: 1367918659
+      Cobblestone_tileset_5: -13511394
+      Cobblestone_tileset_50: 1940387822
+      Cobblestone_tileset_51: 1469973093
+      Cobblestone_tileset_52: -198640303
+      Cobblestone_tileset_53: -1616325566
+      Cobblestone_tileset_54: 374165030
+      Cobblestone_tileset_55: -431608759
+      Cobblestone_tileset_56: 747469431
+      Cobblestone_tileset_57: -2037674181
+      Cobblestone_tileset_58: -168475192
+      Cobblestone_tileset_59: -187610247
+      Cobblestone_tileset_6: 476289401
+      Cobblestone_tileset_60: 144271400
+      Cobblestone_tileset_61: -1392453742
+      Cobblestone_tileset_62: -1199803489
+      Cobblestone_tileset_63: -1018926905
+      Cobblestone_tileset_64: 430390405
+      Cobblestone_tileset_65: 1306597955
+      Cobblestone_tileset_66: -383051721
+      Cobblestone_tileset_67: 76631399
+      Cobblestone_tileset_68: -1344610916
+      Cobblestone_tileset_69: -1354718808
+      Cobblestone_tileset_7: -2136228918
+      Cobblestone_tileset_70: 1161130133
+      Cobblestone_tileset_71: 6560354
+      Cobblestone_tileset_72: 682824275
+      Cobblestone_tileset_73: 1654511999
+      Cobblestone_tileset_74: -989349895
+      Cobblestone_tileset_75: 1766641054
+      Cobblestone_tileset_76: -62286904
+      Cobblestone_tileset_77: -1336099270
+      Cobblestone_tileset_8: 786731129
+      Cobblestone_tileset_9: -213064406
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

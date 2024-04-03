@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: 589f9f11d5cc5eb43bd4a96befa80b60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: among_us_sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1156
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64899666e2e468e4eb3ebf015f2435ac
+      internalID: 1942853875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1155
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101f75bff9d4c24f838f36f92ac5e7a
+      internalID: -1848105602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1156
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576b6fcc3214d54c9155acb5a5fce2a
+      internalID: -1724414105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1157
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c451c4de875ea4d9b7b5a12ee526f7
+      internalID: -1267142227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1156
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02b4130a144c147b2003e807f9407b
+      internalID: 626020320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1155
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33049723134d2524cb66fb6654cac8a3
+      internalID: 1544461935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1155
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24894ea6bcce2ec4d8ee9507e0f2c45e
+      internalID: -443326690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1013
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3283b0b2f1a7574cb6376736009d283
+      internalID: -1647182671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1015
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86252f27857194ea2bcf28762ce909
+      internalID: -613722037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1012
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d716cf67c40741b5fedc5888ed1d6
+      internalID: 1876657823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1011
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0bfb7b564c2b48b4ec1acd7b7bb4c
+      internalID: 1285894588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1013
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544e8a26fc28da44b2269cb612982af
+      internalID: -1716008784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1012
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194b53e5fedde04bb3086799b0882e6
+      internalID: -420156064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1012
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc737a2e57129d4f87e528300c3bf04
+      internalID: -21515003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 896
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e94b83e11004478b70a6dc67ce814
+      internalID: -1076701198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 896
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351cf6757a30b894f8a843708eecec68
+      internalID: -1532753477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 894
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd29acca78839cf45a143717714bd33c
+      internalID: 439118074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 891
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79324b0706c58654abd48472ad79d172
+      internalID: 1848540203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 895
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbabb676c870af84caa0cbe6d66175f0
+      internalID: -1556401154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 892
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d631a3f357b3d44296486479f38ad56
+      internalID: 549410103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 894
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c197ca7742aedb42b131022ab3ef8ff
+      internalID: -838176543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 777
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f101a2e75ef91142977d165822df8a0
+      internalID: 1956172277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 772
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd323938cbbbfc48a2ddbcfe4c77e0b
+      internalID: -1206594687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 772
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba159bccf013034abb9f1f3aeef74a3
+      internalID: -259889910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 777
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72e94494254e2a4f9137942c4c40fc1
+      internalID: 1926324775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 777
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002318e75fabb84591165aa9b7caa31
+      internalID: -1074955041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 776
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3422a8bf7d4b9e46b9d19278aa8d4b5
+      internalID: 2124716362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 774
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e24da1581c43c459c4ba21e8887838
+      internalID: 1620374546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 635
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e544039e3326408c3c4bc974dadf6
+      internalID: -1706766810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 635
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f80b03d5e5529429b77508c1e6eeda
+      internalID: -1092844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 635
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a094692da5fe741bdba7a073084dcb
+      internalID: 719194125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 635
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b02d7f60b3df04a8c902bf331cbc8a
+      internalID: -626747614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 635
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31c5f9af2f535469ade56d77970c9d
+      internalID: 2080921565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 635
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e1dd13e4e3d7478b7f3c343047b4c
+      internalID: -1330816879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 635
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580494707969c1144a3d9ca4bc5cd999
+      internalID: -387741447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 524
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c58c92ec8986489b8b46872f1de4f
+      internalID: -789179248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 523
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f2a90b4f597048a5655dc1d68a323
+      internalID: -28767403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 523
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df952aa13894f4fbc19262c528f5f0
+      internalID: 506421907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 523
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba073bfc0e4cb10499e1eaa498869e9e
+      internalID: 476793435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 524
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504408f2aaa864345881d2aa8a6a392b
+      internalID: 1102213322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 523
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23cae541339ea4886367a9ca4f564f
+      internalID: 1852589497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 523
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8870ff8e9d1341bc1118cbe203698
+      internalID: -255157199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 409
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8a71d1221d0045ae21da64d927c08
+      internalID: -2040696696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3cb6df6495774b911bda134f83254
+      internalID: -356135908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 409
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ee4f66a3f8b74ba5f60da9c3d9fe4
+      internalID: 1845144180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 405
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fac1f4c43439f49819946a8f2cc00b
+      internalID: 122644360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 405
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff906c739e2414fa6f14372f01d2ad
+      internalID: 984842329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 409
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6365222f7a5c86d428fda665af84c43b
+      internalID: 729282529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 406
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54752841e2efff54385073fdff9594bb
+      internalID: -1251296225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5732380dafb7ffc4d9a5a65f3c85f98f
+      internalID: 810564393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 283
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c487d175c5da344798d428e616d9621
+      internalID: -1737549964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 283
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d1611f716026439660a899695d7ff
+      internalID: -41247366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 283
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068b53ba4838ea4f86a1dfecffdaac9
+      internalID: -1359222124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 283
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e7296229c5ac4c8e4aead08e0e88f
+      internalID: -1101234031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 283
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8dfcbf4370a2458cb152ce359a4e7
+      internalID: -204777345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 283
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e883308f6d0f4e40b0c94daeec8aa28
+      internalID: 1687612577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009fe99ba0025640be2b77f74ddda51
+      internalID: -605641358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b27c555ce9344f806e10229b31b9e
+      internalID: 1790392990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 157
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfc09cd1f480246839bbdc58cb2412
+      internalID: 1165170755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 156
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a15ef28d6e76e240bca46a13f86d824
+      internalID: 706605986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 155
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0032977dcd288843b669911a850e218
+      internalID: 674739990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 155
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982146b4a1231514fb6b7d6265dfd82e
+      internalID: -1557353798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 155
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75233177cac326f4f9567796f4250d65
+      internalID: 221879803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      among_us_sprite sheet_0: 1942853875
+      among_us_sprite sheet_1: -1848105602
+      among_us_sprite sheet_10: 1285894588
+      among_us_sprite sheet_11: -1716008784
+      among_us_sprite sheet_12: -420156064
+      among_us_sprite sheet_13: -21515003
+      among_us_sprite sheet_14: -1076701198
+      among_us_sprite sheet_15: -1532753477
+      among_us_sprite sheet_16: 439118074
+      among_us_sprite sheet_17: 1848540203
+      among_us_sprite sheet_18: -1556401154
+      among_us_sprite sheet_19: 549410103
+      among_us_sprite sheet_2: -1724414105
+      among_us_sprite sheet_20: -838176543
+      among_us_sprite sheet_21: 1956172277
+      among_us_sprite sheet_22: -1206594687
+      among_us_sprite sheet_23: -259889910
+      among_us_sprite sheet_24: 1926324775
+      among_us_sprite sheet_25: -1074955041
+      among_us_sprite sheet_26: 2124716362
+      among_us_sprite sheet_27: 1620374546
+      among_us_sprite sheet_28: -1706766810
+      among_us_sprite sheet_29: -1092844177
+      among_us_sprite sheet_3: -1267142227
+      among_us_sprite sheet_30: 719194125
+      among_us_sprite sheet_31: -626747614
+      among_us_sprite sheet_32: 2080921565
+      among_us_sprite sheet_33: -1330816879
+      among_us_sprite sheet_34: -387741447
+      among_us_sprite sheet_35: -789179248
+      among_us_sprite sheet_36: -28767403
+      among_us_sprite sheet_37: 506421907
+      among_us_sprite sheet_38: 476793435
+      among_us_sprite sheet_39: 1102213322
+      among_us_sprite sheet_4: 626020320
+      among_us_sprite sheet_40: 1852589497
+      among_us_sprite sheet_41: -255157199
+      among_us_sprite sheet_42: -2040696696
+      among_us_sprite sheet_43: -356135908
+      among_us_sprite sheet_44: 1845144180
+      among_us_sprite sheet_45: 122644360
+      among_us_sprite sheet_46: 984842329
+      among_us_sprite sheet_47: 729282529
+      among_us_sprite sheet_48: -1251296225
+      among_us_sprite sheet_49: 810564393
+      among_us_sprite sheet_5: 1544461935
+      among_us_sprite sheet_50: -1737549964
+      among_us_sprite sheet_51: -41247366
+      among_us_sprite sheet_52: -1359222124
+      among_us_sprite sheet_53: -1101234031
+      among_us_sprite sheet_54: -204777345
+      among_us_sprite sheet_55: 1687612577
+      among_us_sprite sheet_56: -605641358
+      among_us_sprite sheet_57: 1790392990
+      among_us_sprite sheet_58: 1165170755
+      among_us_sprite sheet_59: 706605986
+      among_us_sprite sheet_6: -443326690
+      among_us_sprite sheet_60: 674739990
+      among_us_sprite sheet_61: -1557353798
+      among_us_sprite sheet_62: 221879803
+      among_us_sprite sheet_7: -1647182671
+      among_us_sprite sheet_8: -613722037
+      among_us_sprite sheet_9: 1876657823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
